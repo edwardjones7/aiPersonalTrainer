@@ -5,7 +5,7 @@ import openai
 app = Flask(__name__)
 
 # Initialize OpenAI
-openai.api_key = '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'  # Replace with your OpenAI API key
+openai.api_key = '   '  # Replace with your OpenAI API key
 
 # Database path
 DATABASE = 'user_data.db'
