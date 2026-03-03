@@ -26,7 +26,7 @@ This NAS solution consists of two networked nodes working together to provide re
 │     │                 │       │                 │               │
 │     │  AMD Ryzen 5    │       │  Intel i5 9th   │               │
 │     │  5+ TB RAID 5   │       │  256 GB SSD     │               │
-│     │  + Firewall     │       │                 │               │
+│     │  + Firewall     │       │  OpenClaw AGI   │               │
 │     └─────────────────┘       └─────────────────┘               │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -41,7 +41,7 @@ This NAS solution consists of two networked nodes working together to provide re
 |-----------|---------------|
 | **CPU** | AMD Ryzen 5 7600 (6-core, 12-thread) |
 | **Memory** | 16 GB DDR5 RAM |
-| **Storage** | 5+ TB RAID 5 Array |
+| **Storage** | 10+ TB RAID 5 Array |
 | **Redundancy** | RAID 5 (single drive fault tolerance) |
 | **Network Security** | Hardware/Software Firewall |
 | **Cooling** | RGB Case Fans |
@@ -74,6 +74,9 @@ This NAS solution consists of two networked nodes working together to provide re
 - **File Sharing** — SMB/NFS shares for seamless file access
 - **Development Environment** — Host containers, VMs, or development tools
 - **Personal Cloud** — Self-hosted alternative to cloud storage services
+
+- **Dell Microplex** - Runs OpenClaw autonomously posing as an assistnant always getting tasks done
+- **Built Desktop** - Runs TRUENAS with 10tb of storage acting as the central sever
 
 ---
 
@@ -130,14 +133,3 @@ The primary node uses RAID 5, which provides:
 - **Update Firmware**: Keep drives and system firmware current
 - **Review Firewall Logs**: Monitor for suspicious activity
 
----
-
-## 📄 License
-
-This project documentation is provided for educational and reference purposes.
-
----
-
-## 🙏 Acknowledgments
-
-Built with care for reliable home/small office network storage.
