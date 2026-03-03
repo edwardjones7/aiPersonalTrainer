@@ -1,6 +1,6 @@
 Network Attached Storage Server
 A custom-built two-node NAS server cluster featuring RAID 5 redundancy, firewall protection, and over 5TB of fault-tolerant storage.
-Show Image
+<img width="1215" height="2160" alt="image" src="https://github.com/user-attachments/assets/c262f067-2ca7-4d94-a3e8-c5a2684e6532" />
 Interior of the custom-built primary storage node with RGB cooling and RAID array
 
 🖥️ System Architecture
