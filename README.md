@@ -3,6 +3,7 @@
 A custom-built two-node NAS server cluster featuring RAID 5 redundancy, firewall protection, and over 5TB of fault-tolerant storage.
 
 <img width="234" height="356" alt="image" src="https://github.com/user-attachments/assets/0712b3c1-ffa5-4c9a-a87c-14c9939d04ee" />
+
 (images/primary-node-interior.png)
 *Interior of the custom-built primary storage node with RGB cooling and RAID array*
 
